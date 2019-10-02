@@ -3,3 +3,4 @@ A simple Image sorter that sorts images based on either size, color, or randomly
 them to be displayed in a video. The driver function is images.m.
 
 # Program in action
+![](ImageSorter.gif)
